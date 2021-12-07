@@ -1,4 +1,4 @@
-# jogo_de-naves_bootcamp_JavaScript
+# jogo de naves bootcamp JavaScript
 Criando um jogo de naves no curso "Construindo o seu primeiro jogo de naves" do bootcamp JavaScript Game Developer da Digital Innovation One
 Curso do Bootcamp JavaScript Game Developer da Digital Innovation One.
 
